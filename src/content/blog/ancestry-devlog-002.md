@@ -1,9 +1,9 @@
 ---
-title: "Starting Ancestry Dev Blog"
-description: "First steps into documenting the journey"
+title: "Implementing Draft"
+description: "Testing draft feature"
 pubDate: 2026-04-08
 tags: ["devlog"]
-draft: false
+draft: true
 ---
 
 This is the beginning of the Ancestry dev blog.
